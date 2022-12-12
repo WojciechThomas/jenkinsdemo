@@ -1,3 +1,3 @@
 # jenkinsdemo
 
-Demo for 
+Demo for lecture

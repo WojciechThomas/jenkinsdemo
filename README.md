@@ -1,3 +1,3 @@
 # jenkinsdemo
 
-Demo for lecture on
+Demo for lecture on DevOps
